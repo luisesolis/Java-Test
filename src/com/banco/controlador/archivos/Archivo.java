@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.banco.modelo.archivos;
+package com.banco.controlador.archivos;
 
 import com.banco.modelo.vo.Compra;
 import com.banco.modelo.vo.Transaccion;

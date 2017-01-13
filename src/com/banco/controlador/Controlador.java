@@ -1,11 +1,11 @@
 package com.banco.controlador;
 
-import com.banco.modelo.archivos.Archivo;
+import com.banco.controlador.hilos.ProcesoCompra;
+import com.banco.controlador.archivos.Archivo;
 import com.banco.modelo.dao.CompraDAO;
 import com.banco.modelo.dao.CuentaDAO;
 import com.banco.modelo.dao.TransaccionDAO;
 import com.banco.modelo.dao.TransferenciaDAO;
-import com.banco.modelo.hilos.ProcesoCompra;
 import com.banco.modelo.vo.Compra;
 import com.banco.modelo.vo.Cuenta;
 import com.banco.modelo.vo.Transaccion;
