@@ -12,7 +12,7 @@ import java.sql.*;
  */
 public class Conexion {
     private static final String driver = "com.mysql.jdbc.Driver";
-    private static final String url = "jdbc:mysql://localhost:3306/bancoCB";
+    private static final String url = "jdbc:mysql://localhost:3306/bancocb";
     private static final String user = "cbts";
     private static final String password = "cbts";
     
