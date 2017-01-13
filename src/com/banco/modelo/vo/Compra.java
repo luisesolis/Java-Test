@@ -8,6 +8,7 @@ public class Compra extends Transaccion{
     public static final String MONTO_MAYOR_A_LIMITE = "EL MONTO SUPERA EL LIMITE ESTABLECIDO";
     public static final String COMPRA_EXITOSA = "COMPRA REALIZADA CON EXITO";
     public static final String COMPRA_FALLIDA = "COMPRA NO REALIZADA CON EXITO";
+    String cadena;
     
     public static final double IVA = 0.16;
      public static final double LIMITE = 2000.0;
